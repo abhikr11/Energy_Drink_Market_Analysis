@@ -1,7 +1,11 @@
 # Energy_Drink_Market_Analysis
 Provide Insights to the Marketing Team in Food &amp; Beverage Industry.
 
-# Domain: F & B   Function: Marketing  
+#### LinkedIn Post Link : [Click Here](https://www.linkedin.com/feed/update/urn:li:activity:7086428441662693376/)
+
+#### Presentation Link : [Click Here](https://www.canva.com/design/DAFottgz_DU/p5P0nnKchQ99bU45mphpRg/view?utm_content=DAFottgz_DU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+#### Domain: F & B   Function: Marketing  
 
 CodeX is a German beverage company that is aiming to make its mark in the Indian market. A few months ago, they launched their energy drink in 10 cities in India.
 
